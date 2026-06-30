@@ -1,1 +1,4 @@
 this is the new commit by by feature 1 by ali 
+
+this is a file that is edited by feature 2 and commited here in feature 2
+
