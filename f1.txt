@@ -1,1 +1,1 @@
-this is the new file which we have made 
+this is a file that is edited by feature 2 and commited here in feature 2
